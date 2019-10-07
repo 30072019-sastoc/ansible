@@ -8,13 +8,13 @@
    
    This is also an efficient tool when compare to tools like Puppet, Chef and Salt Stack. 
    
-** Installation on Linux / Mac **
+   **Installation on Linux / Mac**
 
    _Step 1._ Install Python 
    
    _Step 2._ Install Ansible
 
-** Installation on Windows **
+   **Installation on Windows**
 
    _Step 1._ Enabling Windows subsystem for Linux installation
    
