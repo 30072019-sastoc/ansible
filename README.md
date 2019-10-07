@@ -8,22 +8,22 @@
    
    This is also an efficient tool when compare to tools like Puppet, Chef and Salt Stack. 
    
-#### Installation on Linux / Mac
+** Installation on Linux / Mac **
 
-   Step 1. Install Python 
+   _Step 1._ Install Python 
    
-   Step 2. Install Ansible
+   _Step 2._ Install Ansible
 
-#### Installation on Windows
+** Installation on Windows **
 
-   Step 1. Enabling Windows subsystem for Linux installation
+   _Step 1._ Enabling Windows subsystem for Linux installation
    
    Open PowerShell as Administrator and run:
    
-   ```
+   ```ps1
    Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
    ```
    
-   Step 2. Restart Machine
+   _Step 2._ Restart Machine
    
-   Step 3. Install Linux Distribution for Microsoft Store - For Example - Ubuntu - This is actually a wrapper for Windows machine as Ansible will work only on Linux/Mac platforms. For Windows users, this approach will be convenient ones for using Ansible Framework.
+   _Step 3._ Install Linux Distribution for Microsoft Store - For Example - Ubuntu - This is actually a wrapper for Windows machine as Ansible will work only on Linux/Mac platforms. For Windows users, this approach will be convenient ones for using Ansible Framework.
